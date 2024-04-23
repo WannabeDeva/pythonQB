@@ -1,2 +1,2 @@
 # pythonQB
-solution to the python questino bank
+solution to the python question bank
